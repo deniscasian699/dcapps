@@ -23,6 +23,7 @@ Fast. Practical. Free with optional ad-removal Supporter plans.
 <img src="assets/screenshots/screen1.png" alt="All Tools" width="180" />
 <img src="assets/screenshots/screen2.png" alt="Image Tools" width="180" />
 <img src="assets/screenshots/screen3.png" alt="Text and Code Tools" width="180" />
+<img src="assets/screenshots/screen4.png" alt="Widget" width="180" />
 </div>
 
 ---
